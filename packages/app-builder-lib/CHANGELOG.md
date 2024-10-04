@@ -1,5 +1,15 @@
 # app-builder-lib
 
+## 25.1.8
+
+### Patch Changes
+
+- [#8450](https://github.com/electron-userland/electron-builder/pull/8450) [`831a81efcbebebaa83f1a9c13bb8d99f9910b544`](https://github.com/electron-userland/electron-builder/commit/831a81efcbebebaa83f1a9c13bb8d99f9910b544) Thanks [@leey0818](https://github.com/leey0818)! - fix: correct native dependency tree mismatch in app-builder rebuild
+
+- Updated dependencies []:
+  - dmg-builder@25.1.8
+  - electron-builder-squirrel-windows@25.1.8
+
 ## 25.1.7
 
 ### Patch Changes
